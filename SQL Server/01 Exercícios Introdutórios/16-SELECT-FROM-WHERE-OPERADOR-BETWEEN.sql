@@ -1,0 +1,4 @@
+USE Escola;
+
+SELECT * FROM Curso
+WHERE Curso_Id BETWEEN 5 AND 10;
