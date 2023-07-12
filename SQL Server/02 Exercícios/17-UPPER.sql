@@ -1,0 +1,1 @@
+SELECT UPPER('Curso de Tecnologia de Dados - IMPACTA') AS [Caracteres Maiúsculo];

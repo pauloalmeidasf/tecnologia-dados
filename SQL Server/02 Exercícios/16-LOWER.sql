@@ -1,0 +1,1 @@
+SELECT LOWER('Curso de Tecnologia de Dados - IMPACTA') AS [Caracteres Minúsculo];
