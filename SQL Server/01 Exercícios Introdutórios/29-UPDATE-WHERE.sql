@@ -1,4 +1,5 @@
 USE Escola;
+
 --Atualiza os valores dos campos
 UPDATE Curso 
 SET Curso_Nome = '.NET CSharp',

@@ -1,6 +1,6 @@
 USE Escola;
 
---Operador de desigualdade
+--Operador 'diferente'
 --Pode ser representado por <> ou !=
 SELECT * FROM Curso
 WHERE Curso_Nome != 'JavaScript'
