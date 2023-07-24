@@ -1,3 +1,9 @@
 use('Paises');
 
-db.dado.find({"Principais Datas Comemorativas": {$exists: true}});
+db.dado.find(
+    {
+        "Principais Datas Comemorativas": {
+            $exists: true
+        }
+    }
+);
